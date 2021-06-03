@@ -2,7 +2,7 @@
 Official Website : https://weather-1.jusspatel8106.repl.co/
 
 ## About 
-This website gets you the detailed weather info of the current hour . It contains data of over 200,000 cities ! This wesbite was created as a hobby using the OpenWeather API , Python , Django and Bootstrap . Hope you like it ! 
+This website gets you the detailed weather info of the current hour . It contains data of over 200,000 cities ! This website was created as a hobby using the OpenWeather API , Python , Django and Bootstrap . Hope you like it ! 
 
 ## Hosted On : 
 <li>ReplIt </li>
