@@ -17,7 +17,7 @@ def index(request):
             place api_key in place of appid ="your_api_key_here "  '''
   
         # source contain JSON data from API 
-        my_secret = os.environ['weather_key']
+        my_secret = "YOUR_API_KEY_HERE"
 
         source = ('http://api.openweathermap.org/data/2.5/weather?&appid='+my_secret+'&q='+city)
         source1 =source.replace(" ","+")
